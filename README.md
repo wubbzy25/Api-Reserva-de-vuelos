@@ -23,6 +23,6 @@ Este proyecto tiene como objetivo desarrollar un sistema de reservas de vuelos e
  * Realiza el proceso de pago utilizando una pasarela de pago segura.
  * Almacena información de reservas en una base de datos.
 
-4. ** Microservicio de Notificaciones:**
+4. **Microservicio de Notificaciones:**
  * Envía notificaciones por correo electrónico o mensajes SMS para confirmaciones de reservas, actualizaciones de vuelos, etc.
  * Utiliza un servicio de envío de correo electrónico o mensajes SMS para entregar notificaciones a los usuarios.
